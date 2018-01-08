@@ -1,2 +1,1 @@
-# hello-world
-new new new
+print('Phd-UESTC-professor')
