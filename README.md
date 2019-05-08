@@ -1,1 +1,0 @@
-print('Phd-UESTC-professor')
